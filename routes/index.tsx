@@ -33,39 +33,33 @@ export default function Home() {
               />
             </div>
             <div className="space-y-6 text-gray-700">
-              <p>
-                In the ancient Balinese time, literate people learn from the
-                palm leaves manuscript which called lontar. The activities to
-                read these manuscript is called "ngebitang lontar", ngebitang is
-                a verb and its root word is kebit; in Balinese kebit means to
-                turn over or to flip something.
-              </p>
-              <p>
-                "Ngebitang lontar", it is an activity that synonymous or
-                associated with the learning activity. Where to learn something,
-                people usually read a book, walk through it (the book) by
-                flipping it. Indeed, like the modern days when we are learning,
-                we flip the book pages. In the digital term, learning means
-                progressing and progress bring changes. In the digital world,
-                where everything are in the form of zero and one (or bit), the
-                changes comes in a form of bit flipping, you change the zero
-                into become one, we called it flipping the bit, so to learn, we
-                flip the bit.
-              </p>
-              <p>
-                We hope, by having kebit; as a safe place; as an indigenous
-                movement; as a collective of initiatives; we can help people in
-                togetherness to learn and share together, to turn a page and
-                move forward, to learn and flip even a single bit from its zero
-                to one, and be useful.
-              </p>
-              <blockquote className="border-l-4 border-blue-500 pl-4 py-2 italic text-lg text-blue-800 bg-blue-50 rounded">
+              <article className="prose lg:prose-xl">
                 <p>
-                  kebit: the learning collective of the collective learning
-                  because learning is never ended when you graduate the school,
-                  it just begun
+                  In ancient Bali, people learned from palm leaf manuscripts
+                  called "lontar." The activity of reading these lontars was
+                  called "ngebitang lontar" (flipping lontar), which is
+                  basically the same as learning itself, similar to how we
+                  scroll and read books. Now, in this digital age, learning is
+                  synonymous with changing bits, from 0 to 1, like updating your
+                  status from single to in a relationship, which signifies
+                  progress and change.
                 </p>
-              </blockquote>
+                <p>
+                  "Kebit" inspired by this local wisdom, aims to be a platform
+                  for collective learning. Like flipping a page of lontar or
+                  flipping a bit in the digital world, Kebit invites us to
+                  continuously learn and grow, even after graduating from
+                  school. The hope is that Kebit can help us all learn, share,
+                  and upgrade ourselves together, to become more impactful.
+                </p>
+                <blockquote className="border-l-4 border-blue-500 pl-4 py-2 italic text-lg text-blue-800 bg-blue-50 rounded">
+                  <p>
+                    Kebit: A digital hangout spot for learning together, because
+                    learning doesn't end with graduation, it's just the
+                    beginning!
+                  </p>
+                </blockquote>
+              </article>
             </div>
           </div>
         </div>
