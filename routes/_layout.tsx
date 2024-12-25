@@ -8,7 +8,7 @@ export default function Layout({ Component }: PageProps) {
           <nav>
             <ul className="flex space-x-4">
               <li>
-                <a href="#" className="hover:text-blue-200">Home</a>
+                <a href="#" className="hover:text-blue-200">~</a>
               </li>
             </ul>
           </nav>
