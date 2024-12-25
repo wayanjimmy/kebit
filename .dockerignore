@@ -1,0 +1,16 @@
+# flyctl launch added from .gitignore
+# dotenv environment variable files
+**/.env
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+**/.env.local
+
+# Fresh build directory
+**/_fresh
+# npm dependencies
+**/node_modules
+
+# flyctl launch added from node_modules/.deno/tailwindcss@3.4.1/node_modules/tailwindcss/stubs/.gitignore
+!node_modules/.deno/tailwindcss@3.4.1/node_modules/tailwindcss/stubs/**/*
+fly.toml
