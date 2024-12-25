@@ -19,7 +19,7 @@ export default function Layout({ Component }: PageProps) {
       </main>
       <footer className="bg-blue-800 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2024 Kebit.dev. All rights reserved.</p>
+          <p>&copy; 2024 Kebit.id. All rights reserved.</p>
           <p className="mt-2">
             The learning collective of the collective learning
           </p>
