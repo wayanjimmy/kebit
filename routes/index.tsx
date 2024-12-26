@@ -28,7 +28,7 @@ export default function Home() {
             <div className="flex justify-center mb-8">
               <img
                 src="/kebit.png"
-                alt="Kebit Logo"
+                alt="KeBIT Logo"
                 className="h-24 w-auto"
               />
             </div>
@@ -45,7 +45,7 @@ export default function Home() {
                   progress and change.
                 </p>
                 <p>
-                  "Kebit" inspired by this local wisdom, aims to be a platform
+                  "KeBIT" inspired by this local wisdom, aims to be a platform
                   for collective learning. Like flipping a page of lontar or
                   flipping a bit in the digital world, Kebit invites us to
                   continuously learn and grow, even after graduating from
@@ -54,7 +54,7 @@ export default function Home() {
                 </p>
                 <blockquote className="border-l-4 border-blue-500 pl-4 py-2 italic text-lg text-blue-800 bg-blue-50 rounded">
                   <p>
-                    Kebit: A digital hangout spot for learning together, because
+                    KeBIT: A digital hangout spot for learning together, because
                     learning doesn't end with graduation, it's just the
                     beginning!
                   </p>
